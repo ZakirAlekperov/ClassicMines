@@ -5,7 +5,7 @@ import java.awt.*;
 
 import static constant.Constants.FIELD_SIZE;
 
-class Canvas extends JPanel {
+public class Canvas extends JPanel {
 
     private Cell[][] field;
         @Override
